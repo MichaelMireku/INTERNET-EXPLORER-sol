@@ -46,7 +46,7 @@ Vaporwave UI Integration: Aesthetic elements incorporated in staking dashboards.
 
 3.1. Token Distribution
 
-Total Supply: TBD
+Total Supply: 1 Billion tokens
 
 Initial Liquidity: % allocated for DEX launch
 
