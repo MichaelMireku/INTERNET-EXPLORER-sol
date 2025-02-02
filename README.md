@@ -109,21 +109,30 @@ Each rank unlocks unique staking multipliers and potential airdrops.
 Phase 1: Initial Development & Launch
 
 ✅️ Website & staking dashboard (Vaporwave aesthetics)
+
 ⬜️ Smart contract deployment on Solana
-⬜ DEX liquidity provision
-⬜ Marketing push with meme campaigns
+
+⬜️ DEX liquidity provision
+
+⬜️ Marketing push with meme campaigns
+
 
 Phase 2: Community & Staking Expansion
 
 ⬜ Full implementation of IE staking mechanism
+
 ⬜ Creation of numerous nostalgic assets including retro-plugins for web browsers,more flash games etc
+
 ⬜ NFT integration (IE-inspired collectibles
+
 
 Phase 3: Ecosystem Growth
 
 ⬜ Strategic partnerships & ecosystem utilities
+
 ⬜ Internet Explorer-Chan(AI Agent) 
 ---
+
 
 6. Conclusion
 
