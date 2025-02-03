@@ -108,7 +108,7 @@ Each rank unlocks unique staking multipliers and potential airdrops.
 
 Phase 1: Initial Development & Launch
 
-✅️ Website & staking dashboard (Vaporwave aesthetics)
+⬜️ Website & staking dashboard (Vaporwave aesthetics)
 
 ⬜️ Smart contract deployment on Solana
 
