@@ -1,9 +1,9 @@
-$IE
-# Internet 1.5 White Paper
 
-## Introduction
+# Internet Explorer White Paper
 
-The Internet 1.5 project aims to address the problem of disappearing internet content by creating a decentralized platform for archiving and sharing digital media. By leveraging blockchain technology and decentralized storage solutions, Internet 1.5 ensures that valuable content remains accessible and secure for future generations.
+## Internet 1.5: An Innovative Web Preservation Archive
+
+Internet 1.5 aims to address the problem of disappearing internet content by creating a decentralized platform for archiving and sharing digital media. By leveraging blockchain technology and decentralized storage solutions, Internet 1.5 ensures that valuable content remains accessible and secure for future generations.
 
 ## Vision
 
