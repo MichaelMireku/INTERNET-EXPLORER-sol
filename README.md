@@ -1,7 +1,7 @@
 
-# By: Michael Mireku
+# Internet 1.5: An Innovative Blockchain Solution to Web Preservation.
 
-## $IE
+## By: Michael Mireku/ @baggio01 ($IE)
 
 The $IE team has its flagship product to be Internet 1.5, which aims to address the problem of disappearing internet content by creating a decentralized platform for archiving and sharing digital media and webpages. By leveraging blockchain technology and decentralized storage solutions, Internet 1.5 ensures that valuable content remains accessible and secure for future generations.
 
