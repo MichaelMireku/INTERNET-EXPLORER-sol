@@ -1,5 +1,5 @@
 
-# Internet Explorer White Paper
+# $IE White Paper
 
 ## Internet 1.5: An Innovative Web Preservation Archive
 
