@@ -1,5 +1,5 @@
 
-# $IE White Paper
+# $IE 
 
 ## Internet 1.5: An Innovative Blockchain Solution to Web Preservation.
 
